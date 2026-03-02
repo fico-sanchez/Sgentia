@@ -1,0 +1,12 @@
+/docs/
+/prompts/
+*.md
+/orchestration/
+plugin/sgentia-geo/vendor/
+plugin/sgentia-geo/.phpunit.result.cache
+/infra/
+artifacts/
+/context/
+/fixtures/
+/scripts/
+/.github/
